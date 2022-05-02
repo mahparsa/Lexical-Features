@@ -7,6 +7,7 @@ Created on Sat Jul  6 13:57:17 2019
 
 
 """
+
 import nltk
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import gutenberg
